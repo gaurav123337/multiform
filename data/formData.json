@@ -1,0 +1,54 @@
+{
+	"txnType":[{
+		"key":"RTGS",
+		"value":"RTGS"
+	},
+	{
+		"key":"NEFT",
+		"value":"NEFT"
+	}],
+	"from":[{
+		"key":"AC_0001",
+		"value":"Amily"
+	},
+	{
+		"key":"AC_0002",
+		"value":"John"
+	},
+	{
+		"key":"AC_0003",
+		"value":"Herman"
+	}],
+	"to":[{
+		"key":"AC_0004",
+		"value":"Lorence"
+	},
+	{
+		"key":"AC_0005",
+		"value":"Michale"
+	},
+	{
+		"key":"AC_0006",
+		"value":"Sebestian"
+	}],
+	"priority":[{
+		"key":"less",
+		"value":"Low"
+	},
+	{
+		"key":"high",
+		"value":"High"
+	},
+	{
+		"key":"medium",
+		"value":"Medium"
+	}],
+	"purpose":[{
+		"key":"rent",
+		"value":"For Rent"
+	},
+	{
+		"key":"bill",
+		"value":"Bill Payment"
+	}]
+}
